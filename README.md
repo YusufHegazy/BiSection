@@ -7,7 +7,7 @@ A python script to aid in solving various numerical techniques
 * Secant Method
 
 ### Usage:
-num_helper.py
+`num_helper.py`
 
 ### Required Modules:
 - SymPy
