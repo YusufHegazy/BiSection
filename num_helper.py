@@ -235,7 +235,7 @@ def run():
 |    [2] Newtons's Method         |
 |    [3] Secant Method            |
 |    [4] View Instructions        |
-|    [5] Exit Program)            |
+|    [5] Exit Program             |
 +---------------------------------+
 """)
           
