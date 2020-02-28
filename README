@@ -1,0 +1,17 @@
+#Num Helper
+Currently Supported Methods:
+	1)Bisection Method
+	2)Newton-Raphson Method
+	3)Secant Method
+
+Usage:
+num_helper.py
+
+Required Modules:
+-SymPy
+-Texttable
+
+Instructions:
+just run: pip install SymPy Texttable
+
+
