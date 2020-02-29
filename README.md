@@ -13,6 +13,7 @@ A python script to aid in solving various numerical techniques
 - Python 3
 - SymPy module
 - Texttable module
+or just use the compiled exe from the link below!
 
 # [To Download The Latest Release Please Click Here](https://github.com/YusufHegazy/NumHelper/releases/download/1.0/num_helper.exe)
 
