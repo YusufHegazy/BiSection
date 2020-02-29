@@ -14,6 +14,7 @@ A python script to aid in solving various numerical techniques
 - SymPy module
 - Texttable module
 
+# [To Download The Latest Release Please Click Here](https://github.com/YusufHegazy/NumHelper/releases/download/1.0/num_helper.exe)
 
 
 
